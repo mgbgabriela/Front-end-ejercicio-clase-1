@@ -1,4 +1,7 @@
 body
+{
+  background-color: rgb(213, 241, 232);
+}
 h1 {
   color: blue;
   
@@ -10,7 +13,7 @@ h1 {
 
 h2{
   font-family: 'Gentium Book Plus', serif;
-  color: rgb(80, 235, 255);
+  color: rgb(185, 80, 255);
   font-size: 40PX;
   }
  h3{
